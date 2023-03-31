@@ -1,4 +1,4 @@
-# PI-PAssword-Locker-Senac
+# PI-Password-Locker-Senac
 # PI-Password-Locker
 
 ## Envolvidos na Password-Locker
